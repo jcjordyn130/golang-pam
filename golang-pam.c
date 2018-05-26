@@ -1,4 +1,3 @@
-#include <security/pam_types.h>
 #include <security/pam_appl.h>
 #include <stdlib.h>
 #include <string.h>
